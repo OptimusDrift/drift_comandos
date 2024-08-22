@@ -6,6 +6,7 @@
 ➜ !boo
 ➜ !net
 ➜ !tts
+➜ !scan
 ```
 
 ## Comandos Generales:
