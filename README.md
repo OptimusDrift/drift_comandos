@@ -7,6 +7,7 @@
 ➜ !net
 ➜ !tts
 ➜ !scan
+➜ !flashbang
 ```
 
 ## Comandos Generales:
@@ -21,6 +22,7 @@
 ➜ !github
 ➜ !twitter
 ➜ !youtube
+➜ !followage
 ```
 ## Comandos para Mods:
 ```
